@@ -18,3 +18,5 @@ Experiments:
 - [Image Denoise](https://github.com/matlabf/image-denoise)
 - [Image Compress RLE](https://github.com/matlabf/image-compress-rle)
 - [Video Histogram Equalization](https://github.com/matlabf/video-histogram-equalization)
+
+![](https://ga-beacon.deno.dev/G-ERJXRWVLBT:BGFjXiiDQ5-gqJoAeoZGqg/github.com/nitrece/digital-image-processing-laboratory)
